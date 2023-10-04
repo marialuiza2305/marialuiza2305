@@ -17,7 +17,6 @@
 
 <div>
   <a href="https://github.com/marialuiza2305"/>
-  <img height="150cm" src="https://github-readme-stats.vercel.app/api?username=marialuiza2305&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="150cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marialuiza2305&theme=radical&layout=compact&langs_count=16"/>
   <img height="150cm" src="https://github-readme-stats.vercel.app/api/wakatime?username=luiza_23&theme=radical&layout=compact"/>
 </div>
