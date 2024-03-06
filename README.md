@@ -1,10 +1,7 @@
 # Hi! Welcome to my profile ;)
 
 ## About me
-<div>
-  <a href="https://github.com/marialuiza2305"/>
-  <img height="150cm" src="https://github-readme-stats.vercel.app/api/wakatime?username=luiza_23&theme=synthwave&layout=compact"/>
-</div>
+<img height="150cm" src="https://github-readme-stats.vercel.app/api/wakatime?username=luiza_23&theme=synthwave&layout=compact"/>
 
 ##
 
