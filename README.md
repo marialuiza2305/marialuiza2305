@@ -18,7 +18,3 @@
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 </div>
 
-## Badge's
-<div>
-  <a href="https://www.credly.com/badges/1a898437-6dc8-47fb-90d1-12a2fbe3d0b6/public_url" target="_blank"><img height="170cm" width="170" src="https://images.credly.com/size/340x340/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png"/>
-</div>
